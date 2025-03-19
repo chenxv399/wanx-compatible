@@ -4,6 +4,8 @@ on:
   release:
     types: [created]
 
+permissions: write-all
+
 jobs:
   build-and-release:
     runs-on: ubuntu-latest
