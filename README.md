@@ -1,0 +1,2 @@
+# wanx-compatible
+一个允许使用OpenAI兼容的Chat API请求通义万象文生图模型wanx2的中转器
